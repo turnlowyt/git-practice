@@ -1,0 +1,2 @@
+Git branching allows parallel development.
+This file is part of the Module 2 assignment.
